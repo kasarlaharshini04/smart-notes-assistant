@@ -1,0 +1,30 @@
+[
+ {
+  "text": "My Python exam is on Friday at 10 AM.",
+  "category": "study"
+ },
+ {
+  "text": "Pay the electricity bill before the 28th.",
+  "category": "bills"
+ },
+ {
+  "text": "Flight to Delhi is booked for Monday morning.",
+  "category": "travel"
+ },
+ {
+  "text": "Call grandma this weekend",
+  "category": "unsure"
+ },
+ {
+  "text": "Buy milk and bread from the store",
+  "category": "shopping"
+ },
+ {
+  "text": "Dentist appointment on Tuesday at 4 PM",
+  "category": "appointments"
+ },
+ {
+  "text": "book bus tickets at 7pm",
+  "category": "travel"
+ }
+]

@@ -1,0 +1,184 @@
+id,text,category,topic
+0,"Electricity bill due the 5th, around 1200 rupees",bills,electricity_bill
+1,"Rent is due on the 25th, transfer to the landlord",bills,rent
+2,Pay house rent by the 5th,bills,rent
+3,Meeting with the manager on Thursday at 5:30 PM,appointments,client_meeting
+4,"Maths exam on Tuesday at 4 PM, revise integration",study,maths_exam
+5,"Electricity bill payment pending, pay on Monday",bills,electricity_bill
+6,Dentist appointment on Thursday at 11:30 AM,appointments,dentist
+7,Hotel reservation in Goa for Wednesday night,travel,hotel
+8,Train ticket to Goa is waitlisted for Monday,travel,train
+9,Buy a gift and some clothes for the festival on the 18th,shopping,clothes
+10,Flight to Hyderabad is booked for Saturday morning.,travel,flight
+11,Pay house rent by the 28th,bills,rent
+12,Wifi bill payment due the 25th,bills,internet_bill
+13,Dentist appointment on Wednesday at 9 AM,appointments,dentist
+14,Credit card bill due on the 12th,bills,credit_card
+15,Don't forget the Python test on Monday morning,study,python_exam
+16,"Maths internal exam Saturday, carry calculator",study,maths_exam
+17,Recharge the internet broadband plan by the 18th,bills,internet_bill
+18,"Doctor appointment on Saturday at 5:30 PM, carry old reports",appointments,dentist
+19,"Rent is due on the 30th, transfer to the landlord",bills,rent
+20,Pay the internet bill on Sunday,bills,internet_bill
+21,Buy vegetables and fruits on the way back on Tuesday,shopping,groceries
+22,"Rent is due on the 28th, transfer to the landlord",bills,rent
+23,"Electricity bill payment pending, pay on Wednesday",bills,electricity_bill
+24,Pay house rent by the 25th,bills,rent
+25,Pay the credit card payment before the 5th to avoid late fee,bills,credit_card
+26,"Credit card statement ready, pay by Monday",bills,credit_card
+27,"Train to Pune on Saturday at 11:30 AM, platform 3",travel,train
+28,Don't forget the Python test on Sunday morning,study,python_exam
+29,Solve 5 graph problems for DSA practice before the 18th,study,dsa_assignment
+30,"Train to Goa on Thursday at 10 AM, platform 3",travel,train
+31,Submit the DSA assignment before the 12th,study,dsa_assignment
+32,Recharge the internet broadband plan by the 5th,bills,internet_bill
+33,"Team meeting Saturday at 2 PM, prepare the agenda",appointments,client_meeting
+34,"Groceries needed: cooking oil, sugar, tea powder",shopping,groceries
+35,Book a hotel in Mumbai near the station for the 30th,travel,hotel
+36,"Online interview the 28th at 4 PM, test the laptop camera",appointments,interview
+37,Revise Python OOP before the exam on the 18th,study,python_exam
+38,Hotel check-in at Mumbai on Monday after 10 AM,travel,hotel
+39,Meeting with the manager on Saturday at 11:30 AM,appointments,client_meeting
+40,Buy new shoes for the weekend,shopping,clothes
+41,Check in online for the Goa flight on Thursday,travel,flight
+42,Finish DSA assignment on trees by Sunday,study,dsa_assignment
+43,Pay house rent by the 12th,bills,rent
+44,Order two shirts and a jacket online,shopping,clothes
+45,Book train tickets to Mumbai for the 12th,travel,train
+46,Check in online for the Pune flight on Friday,travel,flight
+47,"Grocery list: rice, dal, vegetables and fruits",shopping,groceries
+48,Check in online for the Delhi flight on Thursday,travel,flight
+49,Wifi bill payment due the 18th,bills,internet_bill
+50,Flight booking to Hyderabad confirmed for the 30th,travel,flight
+51,Buy a power bank during the sale on the 30th,shopping,gadgets
+52,Buy vegetables and fruits on the way back on Friday,shopping,groceries
+53,Send the monthly rent payment on Saturday,bills,rent
+54,Book a hotel in Chennai near the station for the 28th,travel,hotel
+55,Finish DSA assignment on trees by Friday,study,dsa_assignment
+56,Interview scheduled on Monday at 5:30 PM,appointments,interview
+57,"Dentist visit the 12th, clinic near the market",appointments,dentist
+58,My Python exam is on Friday at 10 AM.,study,python_exam
+59,My Python exam is on Monday at 5:30 PM.,study,python_exam
+60,"Team meeting Friday at 4 PM, prepare the agenda",appointments,client_meeting
+61,Book train tickets to Pune for the 12th,travel,train
+62,"Dentist visit the 25th, clinic near the market",appointments,dentist
+63,Buy a gift and some clothes for the festival on the 12th,shopping,clothes
+64,Buy a power bank during the sale on the 18th,shopping,gadgets
+65,"Flight to Chennai on Tuesday, reach the airport 2 hours early",travel,flight
+66,Don't forget the Python test on Wednesday morning,study,python_exam
+67,Hotel reservation in Bangalore for Thursday night,travel,hotel
+68,"Maths internal exam Friday, carry calculator",study,maths_exam
+69,Order a phone charger and a laptop bag online,shopping,gadgets
+70,"Interview with the hiring team on Saturday, wear formal clothes",appointments,interview
+71,"Rent is due on the 12th, transfer to the landlord",bills,rent
+72,Flight to Hyderabad is booked for Monday morning.,travel,flight
+73,Buy vegetables and fruits on the way back on Saturday,shopping,groceries
+74,Pay the credit card payment before the 25th to avoid late fee,bills,credit_card
+75,Credit card bill due on the 30th,bills,credit_card
+76,"Online interview the 12th at 2 PM, test the laptop camera",appointments,interview
+77,"Credit card statement ready, pay by Friday",bills,credit_card
+78,Credit card bill due on the 25th,bills,credit_card
+79,"Team meeting Friday at 5:30 PM, prepare the agenda",appointments,client_meeting
+80,"Maths internal exam Monday, carry calculator",study,maths_exam
+81,Buy a gift and some clothes for the festival on the 30th,shopping,clothes
+82,"Maths internal exam Wednesday, carry calculator",study,maths_exam
+83,Pay the electricity bill before the 18th.,bills,electricity_bill
+84,My Python exam is on Friday at 2 PM.,study,python_exam
+85,Pay the credit card payment before the 30th to avoid late fee,bills,credit_card
+86,Send the monthly rent payment on Tuesday,bills,rent
+87,Book a hotel in Delhi near the station for the 30th,travel,hotel
+88,Hotel check-in at Hyderabad on Thursday after 2 PM,travel,hotel
+89,"Flight to Goa on Wednesday, reach the airport 2 hours early",travel,flight
+90,"Electricity bill payment pending, pay on Friday",bills,electricity_bill
+91,"Python exam Tuesday, revise loops and functions",study,python_exam
+92,"Electricity bill payment pending, pay on Thursday",bills,electricity_bill
+93,Meeting with the manager on Tuesday at 9 AM,appointments,client_meeting
+94,"Online interview the 18th at 4 PM, test the laptop camera",appointments,interview
+95,"Maths exam on Friday at 9 AM, revise integration",study,maths_exam
+96,My Python exam is on Sunday at 10 AM.,study,python_exam
+97,Flight to Chennai is booked for Wednesday morning.,travel,flight
+98,DSA lab record submission on Sunday,study,dsa_assignment
+99,Buy a gift and some clothes for the festival on the 28th,shopping,clothes
+100,"Doctor appointment on Monday at 5:30 PM, carry old reports",appointments,dentist
+101,"Train to Mumbai on Friday at 2 PM, platform 3",travel,train
+102,DSA lab record submission on Saturday,study,dsa_assignment
+103,Pay the electricity bill before the 12th.,bills,electricity_bill
+104,Flight booking to Goa confirmed for the 28th,travel,flight
+105,"Maths exam on Thursday at 2 PM, revise integration",study,maths_exam
+106,Study calculus chapters for the maths test on the 25th,study,maths_exam
+107,Train ticket to Pune is waitlisted for Saturday,travel,train
+108,Revise Python OOP before the exam on the 28th,study,python_exam
+109,Hotel check-in at Goa on Wednesday after 4 PM,travel,hotel
+110,Client meeting on Sunday at 4 PM,appointments,client_meeting
+111,Recharge the internet broadband plan by the 30th,bills,internet_bill
+112,Buy vegetables and fruits on the way back on Wednesday,shopping,groceries
+113,Interview scheduled on Tuesday at 5:30 PM,appointments,interview
+114,Buy vegetables and fruits on the way back on Sunday,shopping,groceries
+115,Buy a gift and some clothes for the festival on the 25th,shopping,clothes
+116,"Team meeting Tuesday at 2 PM, prepare the agenda",appointments,client_meeting
+117,"Interview with the hiring team on Sunday, wear formal clothes",appointments,interview
+118,"Buy new headphones, budget under 3000 rupees",shopping,gadgets
+119,Train ticket to Pune is waitlisted for Friday,travel,train
+120,My Python exam is on Tuesday at 10 AM.,study,python_exam
+121,Buy a power bank during the sale on the 5th,shopping,gadgets
+122,Recharge the internet broadband plan by the 12th,bills,internet_bill
+123,"Dentist visit the 18th, clinic near the market",appointments,dentist
+124,"Electricity bill due the 25th, around 1200 rupees",bills,electricity_bill
+125,"Maths internal exam Tuesday, carry calculator",study,maths_exam
+126,"Electricity bill payment pending, pay on Tuesday",bills,electricity_bill
+127,"Flight to Chennai on Friday, reach the airport 2 hours early",travel,flight
+128,Hotel check-in at Pune on Friday after 4 PM,travel,hotel
+129,Book train tickets to Bangalore for the 30th,travel,train
+130,Study calculus chapters for the maths test on the 18th,study,maths_exam
+131,Solve 5 graph problems for DSA practice before the 25th,study,dsa_assignment
+132,Wifi bill payment due the 28th,bills,internet_bill
+133,Buy vegetables and fruits on the way back on Thursday,shopping,groceries
+134,Pay the credit card payment before the 18th to avoid late fee,bills,credit_card
+135,DSA lab record submission on Tuesday,study,dsa_assignment
+136,"Credit card statement ready, pay by Saturday",bills,credit_card
+137,Credit card bill due on the 28th,bills,credit_card
+138,Buy a gift and some clothes for the festival on the 5th,shopping,clothes
+139,"Team meeting Sunday at 10 AM, prepare the agenda",appointments,client_meeting
+140,Book train tickets to Chennai for the 25th,travel,train
+141,"Doctor appointment on Saturday at 9 AM, carry old reports",appointments,dentist
+142,Send the monthly rent payment on Monday,bills,rent
+143,"Doctor appointment on Friday at 9 AM, carry old reports",appointments,dentist
+144,"Maths exam on Monday at 11:30 AM, revise integration",study,maths_exam
+145,Buy vegetables and fruits on the way back on Monday,shopping,groceries
+146,Book a hotel in Pune near the station for the 12th,travel,hotel
+147,Buy a power bank during the sale on the 12th,shopping,gadgets
+148,Interview scheduled on Monday at 11:30 AM,appointments,interview
+149,"Buy milk, eggs and bread from the grocery store",shopping,groceries
+150,"Credit card statement ready, pay by Wednesday",bills,credit_card
+151,Train ticket to Goa is waitlisted for Friday,travel,train
+152,"Team meeting Tuesday at 5:30 PM, prepare the agenda",appointments,client_meeting
+153,Compare prices of a new keyboard before buying,shopping,gadgets
+154,"Online interview the 28th at 11:30 AM, test the laptop camera",appointments,interview
+155,"Doctor appointment on Saturday at 4 PM, carry old reports",appointments,dentist
+156,Finish DSA assignment on trees by Tuesday,study,dsa_assignment
+157,Flight booking to Delhi confirmed for the 18th,travel,flight
+158,Study calculus chapters for the maths test on the 28th,study,maths_exam
+159,Pay the electricity bill before the 25th.,bills,electricity_bill
+160,Buy a power bank during the sale on the 25th,shopping,gadgets
+161,Pay the internet bill on Tuesday,bills,internet_bill
+162,Hotel check-in at Pune on Thursday after 10 AM,travel,hotel
+163,Buy a power bank during the sale on the 28th,shopping,gadgets
+164,Submit the DSA assignment before the 5th,study,dsa_assignment
+165,Dentist appointment on Friday at 10 AM,appointments,dentist
+166,"Online interview the 28th at 9 AM, test the laptop camera",appointments,interview
+167,"Interview with the hiring team on Tuesday, wear formal clothes",appointments,interview
+168,Book a hotel in Hyderabad near the station for the 18th,travel,hotel
+169,"Train to Mumbai on Tuesday at 9 AM, platform 3",travel,train
+170,Solve 5 graph problems for DSA practice before the 30th,study,dsa_assignment
+171,Pay the electricity bill before the 30th.,bills,electricity_bill
+172,Send the monthly rent payment on Friday,bills,rent
+173,Dentist appointment on Tuesday at 10 AM,appointments,dentist
+174,Recharge the internet broadband plan by the 28th,bills,internet_bill
+175,Pay the electricity bill before the 28th.,bills,electricity_bill
+176,"Interview with the hiring team on Thursday, wear formal clothes",appointments,interview
+177,"Team meeting Sunday at 2 PM, prepare the agenda",appointments,client_meeting
+178,Wifi bill payment due the 5th,bills,internet_bill
+179,My Python exam is on Saturday at 2 PM.,study,python_exam
+180,"Team meeting Sunday at 5:30 PM, prepare the agenda",appointments,client_meeting
+181,Wifi bill payment due the 30th,bills,internet_bill
+182,Finish DSA assignment on trees by Saturday,study,dsa_assignment
